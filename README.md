@@ -1,8 +1,10 @@
-# React + Vite
+Doctor Appointment Booking System (Frontend)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is the frontend part of the Doctor Appointment Booking System, built using React and other modern technologies. The system allows patients to view available doctors, check their details, and book appointments.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Technologies Used
+React: JavaScript library for building user interfaces.
+Axios: For making HTTP requests to the backend.
+Tailwind CSS: Utility-first CSS framework for styling.
+React Router: For client-side routing.
+React Toastify: For displaying toast notifications.
